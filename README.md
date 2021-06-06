@@ -1,7 +1,12 @@
+<h1 align="center">
+<a href="https://arijitmahapatro.github.io/">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Nice+To+Meet+You+!;Hello+%2C+There+%F0%9F%91%8B;This+is+Arijit+...!&center=true&size=30">
+  </a>
+</h1>
+
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ArijitMahapatro&show_icons=true">
 
-### Hi there I'm Arijit Mahapatro 👋 ;
 
 <a href="https://twitter.com/">
   <img align="left" alt="arijit | Twitter" width="21px" src="https://image.flaticon.com/icons/svg/889/889147.svg" />
