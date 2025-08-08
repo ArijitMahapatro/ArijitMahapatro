@@ -1,41 +1,38 @@
 <h1 align="center">
   <a href="https://arijitmahapatro.github.io/">
-    <img src="https://readme-typing-svg.demolabrcel.app/api?username=ArijitMahapatro&show_icons=true&theme=radical
-</p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+My+DevOps+Journeys://twitter.com/"><img alt="Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/733="https://cdn-icons-png.flaticon.com/512/2111/211s://cdn-icons-png.flaticon.com/512/1384/138405x" src="https://cdn-icons-png.flaticonresults-driven **DevOps Engineer** with over **3 years of experience** in building scalable CI/CD pipelines, managing cloud infrastructure, and driving automation across hybrid environments.
 
-<p align="center">
-  https://twitter.com/
-  <a href="https://www.instagram.com/thearijit016/"><img alt="Instagram" width="30px" src="https://cdn-icons-pngok" width="30px" src="https://cdn-icons-png.flaticon About Me
-
-- 🧑‍💼 DevOps Engineer with 3 years of experience in CI/CD automation, cloud platforms (AWS, GCP, Azure), and containerization.
-- 🎓 B.Tech in Computer Science – BPUT, Odisha
-- 📍 Based in Bengaluru, India
-- 🚀 Passionate about building scalable DevOps solutions and driving cloud transformation
-- 🎯 Career Goal: Deliver robust DevOps solutions at Deloitte and grow as a cloud-native architect
+- 🎓 **B.Tech in Computer Science** – BPUT, Odisha  
+- 📍 **Based in Bengaluru, India**  
+- 🧠 **Skilled in:** Azure DevOps, Jenkins, GitHub Actions, AWS, GCP, Docker, Kubernetes, Terraform  
+- 🎯 **Career Goal:** Deliver robust Azure DevOps solutions at Deloitte and evolve into a cloud-native architect  
+- 🤝 **Open to collaborations**, mentorships, and exciting DevOps opportunities
 
 ---
 
-### ⚙️ Current Focus Areas
+### ⚙️ Technical Focus Areas
 
-- **CI/CD:** Jenkins, GitHub Actions, Azure DevOps  
-- **Cloud:** AWS, GCP, Azure (VMs, App Services, Functions)  
+- **Cloud Platforms:** Azure (VMs, App Services, Functions), AWS, GCP  
+- **CI/CD Tools:** Jenkins, GitHub Actions, Azure DevOps  
 - **Containerization:** Docker, Kubernetes  
 - **Infrastructure as Code:** Terraform, ARM Templates  
-- **Scripting:** PowerShell, Bash, Groovy  
-- **Monitoring:** Log Analytics, Application Insights  
-- **Incident Management:** ServiceNow  
+- **Scripting Languages:** PowerShell, Bash, Groovy  
+- **Monitoring & Incident Management:** Log Analytics, Application Insights, ServiceNow  
+- **Version Control:** GitHub, GitLab  
 
 ---
 
-### 🚀 Featured Project: End-to-End DevOps Transformation
+### 🚀 Featured Project: End-to-End DevOps Transformation @ Capgemini
 
-Led a comprehensive DevOps initiative at Capgemini involving:
-- CI/CD pipeline optimization (30% faster deployments)
-- Cloud migration across AWS, GCP, Azure
-- Containerization of legacy apps with Docker & Kubernetes
-- Infrastructure automation using Terraform and scripting
-- Monitoring and incident resolution via ServiceNow
+Led a comprehensive DevOps initiative that included:
+- ✅ Designing CI/CD pipelines for cloud and on-prem apps using Jenkins, GitHub Actions, and Azure DevOps  
+- ☁️ Migrating infrastructure across AWS, GCP, and Azure, achieving **30% cost reduction**  
+- 📦 Containerizing legacy applications with Docker and orchestrating with Kubernetes  
+- 🛠️ Automating infrastructure provisioning using Terraform and scripting  
+- 📈 Implementing monitoring and incident resolution workflows via ServiceNow  
+
+**Impact:** Reduced deployment time by 30%, improved release reliability, and enhanced scalability across environments.
 
 ---
 
-⭐️ From [Arijit Mahapatro](https://github.com/
+⭐️ From Arijit Mahapatro
