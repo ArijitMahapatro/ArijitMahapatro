@@ -1,6 +1,7 @@
+
 <h1 align="center">
   <a href="https://arijitmahapatro.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+My+DevOps+Journeys://twitter.com/"><img alt="Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/733="https://cdn-icons-png.flaticon.com/512/2111/211s://cdn-icons-png.flaticon.com/512/1384/138405x" src="https://cdn-icons-png.flaticonresults-driven **DevOps Engineer** with over **3 years of experience** in building scalable CI/CD pipelines, managing cloud infrastructure, and driving automation across hybrid environments.
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+My+DevOps+Journey!;Hello%2C+I'm+Arijit+Mahapatro+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+Automation+Specialist" alt="Typing SVG"lt="Facebook" width="30px" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.pngc="https://cdn-icons-png.flaticon.com/rs of experience** in building scalable CI/CD pipelines, managing cloud infrastructure, and driving automation across hybrid environments.
 
 - 🎓 **B.Tech in Computer Science** – BPUT, Odisha  
 - 📍 **Based in Bengaluru, India**  
@@ -35,4 +36,4 @@ Led a comprehensive DevOps initiative that included:
 
 ---
 
-⭐️ From Arijit Mahapatro
+⭐️ From [Arijit Mahapato
