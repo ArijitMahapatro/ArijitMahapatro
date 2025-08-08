@@ -1,9 +1,7 @@
 
 <h1 align="center">
   <a href="https://arijitmahapatro.github.io/">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+DevOps+Journey!;Hello+%2C+I'm+Arijit+Mahapatro+%F0%9F%91%8B;DevOps+Engineer+|+Cloud+Automation+Specialist&center=true&size=30">
-  </a>
-</h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+My+DevOps+Journey!;Hello%2C+I'm+Arijit+Mahapatro+%F0%9F%91%8B;DevOps
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArijitMahapatro&show_icons=true&theme=radical" alt="Arijit Mahapatro's GitHub Stats">
